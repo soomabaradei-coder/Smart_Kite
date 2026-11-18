@@ -177,11 +177,11 @@
       </div>
       <div class="chips" id="chips">
         <button class="chip">ما هي مبادرة كايت؟</button>
+        <button class="chip">هل استطيع الالتحاق برودز؟</button>
         <button class="chip">كيف انضم الى كايت؟</button>
-        <button class="chip">ما هي منحة رودز؟</button>
-        <button class="chip">ما شروط التقديم على رودز؟</button>
-        <button class="chip">كيف استعد لاختبار الانجليزي؟</button>
+        <button class="chip">كيف اقوي لغتي الانجليزية؟</button>
         <button class="chip">اي تخصص يناسبني في اكسفورد؟</button>
+        <button class="chip">ما وجهات التميز المتاحة لي؟</button>
       </div>
       <div class="links-note">روابط مهمة</div>
       <div class="links-row">
@@ -241,7 +241,7 @@ if(!IS_AR){
     q('#welcome p').textContent = 'I am the smart mentor of the KITE initiative at King Abdulaziz University. Ask me about KITE and its stations, the Rhodes Scholarship and other opportunities, your Oxford course options, or the English requirement.';
     const pil = ['Academic Excellence','Talent and Energy','Character and Leadership','Service and Impact'];
     qa('.pillar').forEach((e,i)=>{ if(pil[i]) e.textContent = pil[i]; });
-    const ch = ['What is KITE?','How do I join KITE?','What is the Rhodes Scholarship?','Rhodes eligibility criteria?','How do I prepare for IELTS or TOEFL?','Which Oxford course suits me?'];
+    const ch = ['What is the KITE initiative?','Can I apply for the Rhodes Scholarship?','How do I join KITE?','How do I improve my English?','Which Oxford course suits me?','What excellence destinations are open to me?'];
     qa('.chip').forEach((e,i)=>{ if(ch[i]) e.textContent = ch[i]; });
     q('.links-note').textContent = 'Important links';
     const lp = ['Opportunities','KAU Rhodes page','Intro session recording','WhatsApp community'];
