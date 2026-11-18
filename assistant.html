@@ -283,6 +283,19 @@ function addMsg(role, text){
 
 function renderInto(el, text){
   el.textContent = '';
+  const boldRe = /\*\*([^*\n]+)\*\*/g;
+  let last = 0, m;
+  while((m = boldRe.exec(text)) !== null){
+    appendLinked(el, text.slice(last, m.index));
+    const b = document.createElement('strong');
+    appendLinked(b, m[1]);
+    el.appendChild(b);
+    last = m.index + m[0].length;
+  }
+  appendLinked(el, text.slice(last));
+}
+
+function appendLinked(el, text){
   const urlRe = /(https?:\/\/[^\s)\]]+)/g;
   let last = 0, m;
   while((m = urlRe.exec(text)) !== null){
