@@ -113,16 +113,14 @@ https://soomabaradei-coder.github.io/Smart_Kite/
 https://drive.google.com/file/d/1Wy3j2gnknDoYS6wScKsRPP_IZdzaS7dQ/view
 - مجتمع كايت في واتساب وهو قناة التواصل الاساسية:
 https://chat.whatsapp.com/IAqXvq9eRr0IaJZ4zOlGS3
-- نموذج الاهتمام بالدورة الثانية (تعبير اهتمام وليس تقديما، من 3 الى 5 دقائق):
-https://docs.google.com/forms/d/e/1FAIpQLSeeLdOdMhljsUEEawXcJZ2ejFg6B6KmuLE7BlH6ImT-1zqqSw/viewform
+- نموذج الاهتمام بالدورة الثانية اغلق؛ لا ترسل رابطه ابدا، ومن يسال عنه اخبره ان الانضمام الان عبر مجتمع واتساب ومتابعة رابط الفرص.
 - صفحة كايت التعريفية:
 https://kite.manus.space
 
 كيف ينضم الطالب:
-1- يملا نموذج الاهتمام.
-2- ينضم الى مجتمع واتساب.
-3- يتابع رابط الفرص ويحضر المحطات ويوثق شهاداته.
-4- يبدا التحضير للانجليزي من اليوم الاول.
+1- ينضم الى مجتمع واتساب.
+2- يتابع رابط الفرص ويحضر المحطات ويوثق شهاداته.
+3- يبدا التحضير للانجليزي من اليوم الاول.
 `;
 
 export default {
