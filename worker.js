@@ -104,6 +104,36 @@ https://dalilk.com/roadmaps/ielts
 دورة توفل من تي اس تي بريب:
 https://tstprep.com/sp/toefl-emergency-course/
 
+سفراء وسفيرات كايت في الكليات:
+- لكل كلية سفير لشطر الطلاب او سفيرة لشطر الطالبات او كلاهما، ودورهم ايصال فرص كايت الى طلاب كلياتهم.
+- عند السؤال عن سفير كلية اذكر الاسم كما هو مسجل ادناه وضعه في سطر مستقل، ولا تذكر ارقام جوال او بريدا الكترونيا ابدا، فالتواصل معهم يكون عبر مجتمع كايت في واتساب.
+- اذا لم يكن لكلية الطالب او لشطره سفير في القائمة وجهه الى مجتمع واتساب.
+- كلية الدراسات البحرية: السفير Nawaf Ibrahim Albadi والسفيرة Fayrouz Sahal Saggaf
+- كلية العلوم الطبية التطبيقية: السفير Bader Abdulla Al Ghamdi والسفيرة Yara Maher Flimban
+- كلية علوم التاهيل الطبي: السفير Aseel Alaa Uldeen Mohammed والسفيرة Samar Awad Jaber Al-rabai
+- كلية طب الاسنان: السفير Sultan Alzahrani والسفيرة Doaa Wahib Nabulsy
+- كلية العلوم الطبية التطبيقية برابغ: السفير Mohammed Khader Alhindi
+- كلية الاداب والعلوم الانسانية: السفير Mohammed Almaqadi والسفيرة Maram Mohammed Akbar Fussi
+- كلية الطب: السفير Fouad Yasir Sabha والسفيرة Refal Hameed Alsaedi
+- كلية الطب برابغ: السفير Fahad Ghaythan Alzahrani
+- كلية السياحة: السفير Alhasan Khaled Hassan Hassan والسفيرة Omnia Abubakr Sidiq
+- كلية الصيدلة: السفير Meshari Yahya Sufyani والسفيرة Norah Awad Binzaqr
+- كلية علوم البحار: السفير Fahad Abdullah Rabee Al-Zahrani
+- كلية علوم البيئة: السفير Meshari Khalid Saeed Alshahrani
+- كلية الهندسة: السفير Moatez Amr Al-Hijazi والسفيرة Reema Yahya Alzahrani
+- كلية الهندسة برابغ: السفير Osama Saeed Alzahrani والسفيرة Aseel Abdullah M. Alshaer
+- كلية الاقتصاد والادارة: السفير Abdullah Mohammed Akram
+- كلية الحاسبات وتقنية المعلومات: السفير Abdulellah Mazen Mojalled والسفيرة Ragad Mohamed Ismat Mutwali
+- كلية الحاسبات برابغ: السفير Aser Nashat Alaseel والسفيرة Jana Mazen Zaini Alem
+- كلية العلوم: السفير Faisal Saleh Alzahrani والسفيرة Alanoud Saad Almalki
+- كلية التعدين: السفير Abdullah Bassam Algarni والسفيرة Layan Ahmed Hakami
+- كلية التمريض: السفيرة Sarah Abdulhamid Hawwat
+- كلية التمريض برابغ: السفيرة Haneen Musaad Kulib Alkhammash
+- كلية العلوم الانسانية والتصاميم: السفيرة Dalal Altayib Mohammad Elyas
+- كلية علوم الارض: السفيرة Layan Ousama M Alhandi
+- كلية الحقوق: السفيرة Joud Musih Alsulami
+- كلية الاتصال والاعلام: السفيرة Hadeel Muslim Al Twairqi
+
 روابط كايت:
 - رابط الفرص والانشطة داخل الجامعة (المحطات المفتوحة والقادمة):
 https://claude.ai/code/artifact/f188e7cf-a3f7-4407-9550-aef7779963e8
